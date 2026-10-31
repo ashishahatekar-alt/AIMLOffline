@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../MCPDemo/MCPDemo.csproj" Id="fa2a7b2f-8071-4e47-a4f8-299451d274b8" />
+  <Project Path="../McpServer1/McpServer1.csproj" Id="d32be5ab-dbc0-40d8-9785-18d6f935080a" />
+  <Project Path="AIMLOffline.csproj" />
+</Solution>
